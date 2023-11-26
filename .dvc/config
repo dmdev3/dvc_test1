@@ -3,3 +3,5 @@
     autostage = true
 ['remote "storage"']
     url = s3://practice-ds-ai-5
+['remote "storage2"']
+    url = s3://practice-ds-ai-6
